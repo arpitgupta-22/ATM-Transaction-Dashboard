@@ -24,7 +24,7 @@ December 2024
 4. Performance Metrics: Key performance metrics such as average uptime and gross profit percentage provide a quick snapshot of the overall efficiency and profitability of ATM operations.
 
 # How the Dashboard Was Created :
-1. Data Collectio -n
+1. Data Collection -
 Data was collected from various sources including ATM transaction logs, maintenance records, and financial reports. The data was cleaned and prepared for analysis using data preprocessing techniques.
 
 2. Visualization -
